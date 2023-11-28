@@ -1,4 +1,4 @@
-package main.domain.dao;
+package main.dao;
 
 import main.domain.Curso;
 

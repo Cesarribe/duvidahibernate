@@ -1,5 +1,7 @@
 package main.domain;
 
+import main.domain.Curso;
+
 import javax.persistence.*;
 import java.time.Instant;
 

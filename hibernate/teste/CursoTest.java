@@ -1,5 +1,5 @@
-import main.domain.dao.CursoDao;
-import main.domain.dao.ICursoDao;
+import main.dao.CursoDao;
+import main.dao.ICursoDao;
 import main.domain.Curso;
 import org.junit.Test;
 
